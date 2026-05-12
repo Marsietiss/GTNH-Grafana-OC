@@ -17,7 +17,7 @@ end
 if #args >= 2 then
   repo = args[2]
 else
-  repo = 'https://github.com/Marsietiss/GTNH-Grafana-OC/'
+  repo = 'https://raw.githubusercontent.com/Marsietiss/GTNH-Grafana-OC/'
 end
 
 -- INSTALL
